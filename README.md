@@ -1,7 +1,7 @@
 # reddit-homepage-cli
 
 [Site](https://www.npmjs.com/package/reddit-homepage-cli) |
-[Contributing](https://github.com/JustCabyr/reddit-cli/blob/master/.github/CONTRIBUTING.md) |
+[Contributing](https://github.com/JustCabyr/reddit-cli/blob/master/.github/CONTRIBUTING.md)
 
 A reddit CLI that opens a random reddit post from the Reddit homepage
 
