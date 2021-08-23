@@ -1,5 +1,5 @@
 {
-  "name": "reddit-cli",
+  "name": "reddit-homepage-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,8 @@
   "bin": {
     "reddit": "./reddit.mjs"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "AbdulKabir Sulaiman",
+  "license": "MIT",
   "keywords": [],
   "dependencies": {
     "node-fetch": "^2.6.1",
